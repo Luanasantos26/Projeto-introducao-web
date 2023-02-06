@@ -9,21 +9,4 @@ console.log("idade media: "+ idade)
 console.log("classe: Mamifero")
 console.log("Ambiente "+ ambiente)*/
 /*_____________________________________________________________________________________________________________*/
-//1 objeto
-/*const animal = {
-    nome: "Cachorro",
-    idade: 12,
-    classe: "mamífero",
-    ambiente: "domestico",
-    extinto: false
-}*/
 
-//2 array
-//var array = []
-
-//3 add obj no array (push)
-var array = []
-array.push({nome:"cachorro", idade:12, classe:"mamifero", ambiente:"domestico", extinto: false})
-console.log(array)
-
-//4
